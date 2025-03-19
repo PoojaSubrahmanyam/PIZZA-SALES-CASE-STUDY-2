@@ -13,6 +13,8 @@
 9. [What was the total volume of pizzas ordered for each hour of the day?](#9-what-was-the-total-volume-of-pizzas-ordered-for-each-hour-of-the-day)
 10. [What was the volume of orders for each day of the week?](#10-what-was-the-volume-of-orders-for-each-day-of-the-week)
 
+### The exclusions and extras columns will need to be cleaned up before using them in your queries. There are some known data issues with this table so be careful when using this in your queries - make sure to check the data types for each column in the schema SQL!
+
 
 
 ## 1. How many pizzas were ordered?
